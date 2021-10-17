@@ -1,4 +1,5 @@
-##*Pengembangan Aplikasi Perhitungan Aktiva Tetap*##
+##*Pengembangan Aplikasi Perhitungan Aktiva Tetap*
+
 pengembangan aplikasi ini berbasis mobile android dengan tools *Android Studio*
 dan memakai bahasa Java untuk pengembangan aplikasinya
 
@@ -179,6 +180,8 @@ adapun implementasi source codenya sebagai berikut
 </selector>
 ```
 
-Itu tadi adalah langkah langkah pengembangan aplikasi sederhana untuk menghitung depresiasi aktiva tetap menggunakan tools android studio
+Itu tadi adalah langkah langkah pengembangan aplikasi sederhana untuk menghitung depresiasi aktiva tetap menggunakan tools android studio. 
+Dan Hasil ketika dijalankan pada smartphone adalah sebagai berikut
+![test](image/test.jpg)
 
 
